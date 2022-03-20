@@ -17,3 +17,6 @@ Or add optional parameters like the number of images to download:
 	python yolo_opencv.py --apple
 
 4. The "yolo_opencv" will create a subfolder "Intelliscraped" inside the fodler with the images with refined images automatically.
+
+</br>
+<a href="https://www.youtube.com/watch?v=OCroHq6BVUo"><img src=https://img.youtube.com/vi/OCroHq6BVUo/0.jpg width="500"></a>
