@@ -1,4 +1,4 @@
-# IntelliScraper-YOLOv3ImageScraping
+# IntelliScraper-YOLOv3ImageScraping <img src=images/cognitia-l.png#gh-light-mode-only width="200" align="right"> <img src=images/cognitia-d.png#gh-dark-mode-only width="200" align="right">
 
 ## What is IntelliScraper
 This is an intelligent image scraper for the web that uses a simple python web scraper to generate images which are then refined based on output from a YOLO v3 Deep Learning model that extracts only the required images of objects and stores them in a separate sub-folder.
